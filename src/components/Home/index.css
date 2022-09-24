@@ -1,0 +1,14 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.contain-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 80%;
+  max-width: 400px;
+  padding: 80px;
+  text-align: center;
+  border-radius: 10px;
+}
